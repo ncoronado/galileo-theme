@@ -17,5 +17,5 @@ Costa Rica has long been a traveler's paradise, from Jungle to Cloud Forest to R
 
 <div class="post-image">
     <img src="../img/costa.rica.feb.2018/beach.jpg" alt="A beautiful beach" />
-    <p class="post-image-caption">Early morning hike in Manuel Antonio National PArk</p>
+    <p class="post-image-caption">Early morning hike in Manuel Antonio National Park</p>
 </div>

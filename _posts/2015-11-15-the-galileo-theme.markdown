@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "The Galileo Theme"
-date:   2015-11-15 13:05:14 +0100
+title:  "Trekking Penguins"
+date:   2018-02-17
 categories: jekyll theme
-location: Florence, Italy
+location: Costa Rica
 ---
 
-Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
+Costa Rica has long been a traveler's paradise, from Jungle to Cloud Forest to Rain Forest to beautiful beaches, there is something for everyone. Julie and I spent two weeks here in February of 2018.
 
-Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
+
 
 <div class="post-image post-image--split">
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The first in an example of split-imagery" />
-    <img src="http://placehold.it/365x270/8e8387/ffffff" alt="The second in an example of split-imagery" />
+    <img src="../img/costa.rica.feb.2018/monkey1.jpg" alt="A curious capuchin" />
+    <img src="../img/costa.rica.feb.2018/raccoon.jpg" alt="This rascally raccoon" />
 </div>
 
 <div class="post-image">
-    <img src="http://placehold.it/750x563/8e8387/ffffff" alt="A full-size image example" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <img src="../img/costa.rica.feb.2018/beach.jpg" alt="A beautiful beach" />
+    <p class="post-image-caption">Early morning hike in Manuel Antonio National PArk</p>
 </div>

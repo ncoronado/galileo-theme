@@ -6,21 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Travelog
-author: Your name
+title: Trekking Penguins
+author: Nicholas Coronado and Julie Allen
 author_link: https://whatever.you/like
-author_description: A few words to describe you & your face
-email: your-email@domain.com
+author_description: A good traveller has no fixed plans and is not intent on arriving.
+email: ncoronado@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This page is here to share our experiences and lessons learned from traveling the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://trekkingpenguins.com" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
-picturefill: false
+picturefill: true
 
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
